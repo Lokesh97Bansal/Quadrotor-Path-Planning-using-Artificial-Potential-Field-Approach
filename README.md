@@ -2,7 +2,7 @@
 
 **A full 6-DOF quadrotor model with PD control tracks a dynamic target through APF-planned, obstacle-avoiding trajectories.**
 
-▶ [**Watch the demo video**](./APF.mp4) · 📄 [**Project report (PDF)**](./Report.pdf)
+▶ [**Watch the demo video**](./APF.mp4) · 📄 [**Project report (PDF)**](./Report.pdf) · 🎞 [**Slides (PDF)**](./PPT.pdf)
 
 ## Overview
 This project closes the loop from planning to control: an **artificial potential field (APF)** generates a trajectory that follows a dynamic target while avoiding static obstacles, and a **6-DOF quadrotor model with a PD controller** tracks that trajectory in simulation.
